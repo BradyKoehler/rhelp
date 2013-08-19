@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'rhelp'
+puts RHelp.run(ARGV[0] || "no file")
