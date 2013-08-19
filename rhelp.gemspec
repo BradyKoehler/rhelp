@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name =         'rhelp'
-  s.version =      '0.0.1'
+  s.version =      '0.0.2'
   s.date =         '2013-08-18'
   s.summary =      "Ruby script help function"
   s.description =  "A script to allow you to format a help display for in the console.\n
