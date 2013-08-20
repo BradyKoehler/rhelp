@@ -1,9 +1,9 @@
-NHelp - v0.0.4
+RHelp - v0.0.4
 =============
 
 Show help data in the console when a user runs
 
-	% nhelp <scriptname>.js
+	% rhelp <scriptname>.rb
 
 Looks for multi-line javascript comments that look like this:
 
